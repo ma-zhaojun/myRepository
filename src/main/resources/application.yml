@@ -1,0 +1,6 @@
+#配置token生成策略
+config:
+  jwt:
+    secret: test1@Login(Auth}*^31)&heiMa% #这里可以自己定制
+    expire: 30 # 过期时间,单位分钟
+    header: testProject #随意定制
